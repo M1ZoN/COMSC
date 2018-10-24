@@ -2,7 +2,6 @@
 Problem: #5 Phone keypads 
 Description: Function that converts word into numeric value
 Name: Mukhammadnozim Islamov
-ID: 1668193
 Date: 09/12/2018
 Status: (complete )
 ****************************************************************/
